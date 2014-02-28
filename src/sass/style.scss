@@ -219,6 +219,13 @@ a:hover{
 		margin:auto;
 		text-align:center;
 
+		#cexp_badge{
+			display:inline-block;
+			position:relative;
+			top:17px;
+			left:6px;
+		}
+
 		#credit{
 			display:inline-block;
 			position:relative;
@@ -234,6 +241,7 @@ a:hover{
 
 		#social{
 			display:inline-block;
+			border-right: 1px dotted #452D0F;
 			#fb{
 				position:relative;
 				top:2px;
